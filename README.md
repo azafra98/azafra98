@@ -1,4 +1,6 @@
 # 💫 About Me:
+🛠️ **FullStack developer** with experience in **Prestashop**, **Laravel** and **WordPress**,  <br>🚀 specialised in **performance optimisation** and **SEO**.  <br>🔄 I implemented **secure upgrades** of Prestashop and PHP, reinforcing **security** 🔒 and **cost savings** 💰.  <br>🖥️ Proficient in **Windows Server 2022 systems administration** and **network rack management** 🌐,  <br>📈 oriented towards **scalable solutions**, **CI/CD pipelines** 🚀 and **collaborative working** 🤝.  <br> <br>
+
 🛠️ **Desarrollador FullStack** con experiencia en **Prestashop**, **Laravel** y **WordPress**,  <br>🚀 especializado en **optimización de rendimiento** y **SEO**.  <br>🔄 Implementé **actualizaciones seguras** de Prestashop y PHP, reforzando **seguridad** 🔒 y **ahorro de costes** 💰.  <br>🖥️ Competente en **administración de sistemas Windows Server 2022** y **gestión de racks de red** 🌐,  <br>📈 orientado a **soluciones escalables**, **pipelines CI/CD** 🚀 y **trabajo colaborativo** 🤝.  <br>
 
 
